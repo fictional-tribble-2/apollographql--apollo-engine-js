@@ -1,7 +1,7 @@
 # Apollo Engine
 
 [![npm version](https://badge.fury.io/js/apollo-engine.svg)](https://badge.fury.io/js/apollo-engine)
-[![Build Status](https://circleci.com/gh/apollographql/apollo-engine-js.svg?style=svg)](https://circleci.com/gh/apollographql/apollo-engine-js) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/apollographql--apollo-engine-js.svg)](https://www.staging.guardrails.io)
+[![Build Status](https://circleci.com/gh/apollographql/apollo-engine-js.svg?style=svg)](https://circleci.com/gh/apollographql/apollo-engine-js) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/apollographql--apollo-engine-js.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/apollographql--apollo-engine-js.svg)](https://www.guardrails.io)
 
 This package integrates the Apollo Engine Proxy with your GraphQL server.
 
